@@ -28,7 +28,7 @@ Requirements: Windows 10 or 11 (64-bit). No internet is needed to play. Everythi
 
 ## Updates
 
-Starting with the first version that includes the updater (1.0.5 or later; versions before it must be updated by installing the new setup by hand), when a newer version is published here the app shows **An update is available** with an **Update** button. Pressing it downloads the new setup, verifies it, installs it and restarts the app. Updates are never started while a game is running. You can turn the automatic check off in Settings.
+Starting with version 1.1.0 (versions before 1.1.0 must be updated by installing the new setup by hand), when a newer version is published here the app shows **An update is available** with an **Update** button. Pressing it downloads the new setup, verifies it, installs it and restarts the app. Updates are never started while a game is running. You can turn the automatic check off in Settings.
 
 Your games, tickets and media settings are kept when you update.
 
