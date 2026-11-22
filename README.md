@@ -6,7 +6,7 @@ This repository only holds the downloadable installers. The app itself is not pu
 
 ## Download
 
-Go to the [Releases](../../releases/latest) page and download the file named `Media Tambola_<version>_x64-setup.exe` from the latest release.
+Go to the [Releases](../../releases/latest) page and download the file named `Media-Tambola_<version>_x64-setup.exe` from the latest release.
 
 ## Install
 
